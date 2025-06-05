@@ -1,0 +1,1 @@
+Oi professor, eu tive um problema com o XAMP e  o MySQL, devido a isso só consengui te mandar o código bruto, sem a conexão através do phpmyadmin. Mas o código está completo com as coisas que foram solicitadas. Com sinceridade Matheus. 
